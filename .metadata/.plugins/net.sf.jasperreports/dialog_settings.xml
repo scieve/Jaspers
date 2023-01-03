@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.jaspersoft.studio.property.color.chooser.ColorDialog">
+		<item key="dialogX" value="660"/>
+		<item key="dialogY" value="208"/>
+		<item key="dialogWidth" value="600"/>
+		<item key="dialogHeight" value="500"/>
+		<item key="DIALOG_X_ORIGIN" value="660"/>
+		<item key="DIALOG_Y_ORIGIN" value="180"/>
+		<item key="DIALOG_WIDTH" value="600"/>
+		<item key="DIALOG_HEIGHT" value="500"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="com.jaspersoft.studio.property.descriptor.expression.dialog.JRExpressionEditor">
+		<item key="dialogX" value="585"/>
+		<item key="dialogY" value="88"/>
+		<item key="dialogWidth" value="750"/>
+		<item key="dialogHeight" value="680"/>
+		<item key="DIALOG_X_ORIGIN" value="585"/>
+		<item key="DIALOG_Y_ORIGIN" value="60"/>
+		<item key="DIALOG_WIDTH" value="750"/>
+		<item key="DIALOG_HEIGHT" value="680"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+	<section name="com.jaspersoft.studio.property.dataset.dialog.DatasetDialog">
+		<item key="dialogX" value="0"/>
+		<item key="dialogY" value="28"/>
+		<item key="dialogWidth" value="1920"/>
+		<item key="dialogHeight" value="1025"/>
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="1920"/>
+		<item key="DIALOG_HEIGHT" value="1025"/>
+		<item key="DIALOG_FONT_NAME" value="1|Cantarell|11.0|0|GTK|1|"/>
+	</section>
+</section>
